@@ -58,20 +58,6 @@ I'm a passionate frontend developer from India, with a keen interest in full-sta
 
 
 
-
-<div align="center">
-
-  <!-- GitHub Contribution Graph -->
-  ![GitHub Contributions](https://ghchart.rshah.org/409ba5/Alexa23061999)
-
-  <!-- Coding Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexa23061999&show_icons=true&theme=radical&count_private=true" alt="Alexa23061999's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexa23061999&theme=radical&layout=compact" alt="Alexa23061999's Top Languages"/>
-  </a>
-
   <!-- Coding Streak -->
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexa23061999&theme=radical)](https://git.io/streak-stats)
 
@@ -83,74 +69,6 @@ I'm a passionate frontend developer from India, with a keen interest in full-sta
   [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YourHackerRankUsername)
 
 </div>
-
-### 🏆 Coding Milestones
-
-<div align="center">
-
-|
- Platform 
-|
- Achievement 
-|
- Level 
-|
-|
-----------
-|
--------------
-|
--------
-|
-|
- LeetCode 
-|
- Problems Solved 
-|
-!
-[
-LeetCode Problems
-](
-https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYourLeetCodeUsername&logo=leetcode&logoColor=yellow
-)
-|
-|
- HackerRank 
-|
- Stars 
-|
-!
-[
-HackerRank Stars
-](
-https://img.shields.io/badge/★★★★★-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white
-)
-|
-|
- Coding Time 
-|
- Total Hours 
-|
-!
-[
-Coding Time
-](
-https://img.shields.io/badge/500%2B%20Hours-blue?style=for-the-badge&logo=wakatime&logoColor=white
-)
-|
-
-</div>
-
-### 📈 Skill Progress
-
-```[tasklist]
-- [x] Python
-- [x] JavaScript
-- [x] React
-- [ ] Machine Learning
-- [ ] Cloud Computing
-
-
 
 
 
