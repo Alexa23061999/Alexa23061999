@@ -58,18 +58,6 @@ I'm a passionate frontend developer from India, with a keen interest in full-sta
 
 
 
-H
-## 📊 My Coding Activity <div align="center"> <!-- GitHub Contribution Graph --> ![GitHub Contribution Graph](https://ghchart.rshah.org/Alexa23061999) <!-- LeetCode Stats --> [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YourLeetCodeUsername&theme=dark)](https://leetcode.com/YourLeetCodeUsername/) <!-- HackerRank Badge --> [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YourHackerRankUsername) </div> ### 🏆 Coding Achievements - LeetCode Problems Solved: X - HackerRank Stars: ⭐⭐⭐⭐⭐ - Total Coding Hours: XXX
-
-i need more design count statin data given best look design i need
-
-
-Certainly! I'll create a more comprehensive and visually appealing design that incorporates additional coding statistics and achievements. Here's an enhanced version:
-
-markdown
-
-Copy
-## 📊 My Coding Journey
 
 <div align="center">
 
