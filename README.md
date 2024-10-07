@@ -58,20 +58,6 @@ I'm a passionate frontend developer from India, with a keen interest in full-sta
 
 
 
-  <!-- Coding Streak -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexa23061999&theme=radical)](https://git.io/streak-stats)
-
-  <!-- LeetCode & HackerRank Stats -->
-  <a href="https://leetcode.com/YourLeetCodeUsername/">
-    <img src="https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-  
-  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YourHackerRankUsername)
-
-</div>
-
-
-
 ## 🌟 Featured Projects
 
 <div align="center">
