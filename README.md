@@ -57,9 +57,113 @@ I'm a passionate frontend developer from India, with a keen interest in full-sta
 </div>
 
 
-## 📈 Contribution Graph
 
-[![Alex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexa23061999&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+H
+## 📊 My Coding Activity <div align="center"> <!-- GitHub Contribution Graph --> ![GitHub Contribution Graph](https://ghchart.rshah.org/Alexa23061999) <!-- LeetCode Stats --> [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YourLeetCodeUsername&theme=dark)](https://leetcode.com/YourLeetCodeUsername/) <!-- HackerRank Badge --> [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YourHackerRankUsername) </div> ### 🏆 Coding Achievements - LeetCode Problems Solved: X - HackerRank Stars: ⭐⭐⭐⭐⭐ - Total Coding Hours: XXX
+
+i need more design count statin data given best look design i need
+
+
+Certainly! I'll create a more comprehensive and visually appealing design that incorporates additional coding statistics and achievements. Here's an enhanced version:
+
+markdown
+
+Copy
+## 📊 My Coding Journey
+
+<div align="center">
+
+  <!-- GitHub Contribution Graph -->
+  ![GitHub Contributions](https://ghchart.rshah.org/409ba5/Alexa23061999)
+
+  <!-- Coding Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexa23061999&show_icons=true&theme=radical&count_private=true" alt="Alexa23061999's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexa23061999&theme=radical&layout=compact" alt="Alexa23061999's Top Languages"/>
+  </a>
+
+  <!-- Coding Streak -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexa23061999&theme=radical)](https://git.io/streak-stats)
+
+  <!-- LeetCode & HackerRank Stats -->
+  <a href="https://leetcode.com/YourLeetCodeUsername/">
+    <img src="https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+  
+  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YourHackerRankUsername)
+
+</div>
+
+### 🏆 Coding Milestones
+
+<div align="center">
+
+|
+ Platform 
+|
+ Achievement 
+|
+ Level 
+|
+|
+----------
+|
+-------------
+|
+-------
+|
+|
+ LeetCode 
+|
+ Problems Solved 
+|
+!
+[
+LeetCode Problems
+](
+https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYourLeetCodeUsername&logo=leetcode&logoColor=yellow
+)
+|
+|
+ HackerRank 
+|
+ Stars 
+|
+!
+[
+HackerRank Stars
+](
+https://img.shields.io/badge/★★★★★-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white
+)
+|
+|
+ Coding Time 
+|
+ Total Hours 
+|
+!
+[
+Coding Time
+](
+https://img.shields.io/badge/500%2B%20Hours-blue?style=for-the-badge&logo=wakatime&logoColor=white
+)
+|
+
+</div>
+
+### 📈 Skill Progress
+
+```[tasklist]
+- [x] Python
+- [x] JavaScript
+- [x] React
+- [ ] Machine Learning
+- [ ] Cloud Computing
+
+
+
 
 
 ## 🌟 Featured Projects
