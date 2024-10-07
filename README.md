@@ -56,6 +56,12 @@ I'm a passionate frontend developer from India, with a keen interest in full-sta
   <img src="https://github-profile-trophy.vercel.app/?username=Alexa23061999&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
+
+## 📈 Contribution Graph
+
+[![Alex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexa23061999&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🌟 Featured Projects
 
 <div align="center">
